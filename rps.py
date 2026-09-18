@@ -52,3 +52,8 @@ comp_choice = get_comp_choice()
 # call the rps() function, passing the user_choice 
 # and comp_choice variables as arguments
 rps(user_choice, comp_choice)
+
+def test_rps():
+    pass
+    # TODO: confirm that your game works properly
+    # for all cases
